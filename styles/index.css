@@ -1,4 +1,4 @@
-#header{
+.header{
     text-align: center;
     color: chocolate;
     padding: 300px;
@@ -44,4 +44,20 @@ div{
     border-bottom: none;
     background-color: rgb(206, 229, 202);
     box-shadow: -40px 40px 20px gray;
+}
+#div5{
+    display: none;
+}
+#div7{
+    visibility: hidden;
+}
+#div3, #div8 {
+    width: 50vw;
+}
+#roff{
+    display: inline-block;
+    color: blueviolet;
+    border: 4px solidgray;
+    padding: 10px;
+    margin: 20px;
 }
