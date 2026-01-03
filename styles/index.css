@@ -1,0 +1,38 @@
+#header{
+    text-align: center;
+    color: chocolate;
+    padding: 300px;
+    background-color: aliceblue;
+    background-image: url(Bangladesh\ Energy\ and\ Power\ Research\ Council\ \(BEPRC\)\ Job\ Circular\ 2022\ Chakriwala.com.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    back
+    
+    }
+
+.headline{color: brown;
+    background-color: beige;
+    font-size: xx-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-shadow: 20px;
+
+
+}
+
+div{
+    border: 20px solid rgb(134, 14, 14);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px 40px 50px 60px;
+}
+.pera1{
+    background-color: antiquewhite;
+}
+.pera2{
+    background-color: rgb(189, 137, 118);
+}
+.pera3{
+    background-color: rgb(191, 173, 173);
+}
