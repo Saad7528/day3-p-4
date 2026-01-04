@@ -57,7 +57,7 @@ div{
 #roff{
     display: inline-block;
     color: blueviolet;
-    border: 4px solidgray;
+    border: 6px solid rgb(168, 8, 8);
     padding: 10px;
     margin: 20px;
 }
